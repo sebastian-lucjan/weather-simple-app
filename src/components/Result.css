@@ -1,0 +1,10 @@
+.result {
+  margin: 20px;
+  border-top: 1px solid #000;
+}
+
+.result h4,
+.result h5,
+.result h6 {
+  font-weight: normal;
+}
